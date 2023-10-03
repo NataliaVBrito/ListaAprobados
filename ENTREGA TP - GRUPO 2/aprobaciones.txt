@@ -1,0 +1,8 @@
+100,Carlos Gomez,Matematica 
+110,Lautaro Martinez,Lengua
+115,Pablo Fernandez,Lengua
+120,Esteban Sosa,Matematica
+110,Lautaro Martinez,Matematica
+100,Carlos Gomez,Historia
+115,Pablo Fernandez,Geografia
+120,Esteban Sosa,Contabilidad
